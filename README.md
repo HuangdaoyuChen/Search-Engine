@@ -1,5 +1,8 @@
 # Search-Engine
 
+![image](https://github.com/DouglasChenH/Search-Engine/raw/master/screenshots/home.png)
+![image](https://github.com/DouglasChenH/Search-Engine/raw/master/screenshots/search.png)
+
 depolyment.py deploys the web application to AWS EC2 
 
 termination.py receives user input as a interger or string each time to terminate one instance. Input can be instance index as shown in the choices and it also can be the instance name as a string in " ".
