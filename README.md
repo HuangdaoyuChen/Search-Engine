@@ -1,6 +1,8 @@
 # Search-Engine
 
+## Search Engine Welcome Page
 ![image](https://github.com/DouglasChenH/Search-Engine/raw/master/screenshots/home.png)
+## Search Engine Result Page
 ![image](https://github.com/DouglasChenH/Search-Engine/raw/master/screenshots/search.png)
 
 depolyment.py deploys the web application to AWS EC2 
